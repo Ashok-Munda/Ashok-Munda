@@ -1,7 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://github.com/Ashok-Munda/Ashok-Munda/raw/main/assets/github.gif" alt=Hey There! I'm Ashok. I'm Beginner here🤔">
-</p>
+I'm Ashok Kumar Munda !
 <!--
 **Ashok-Munda/Ashok-Munda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
